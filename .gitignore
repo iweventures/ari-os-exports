@@ -1,0 +1,11 @@
+# Credentials and secrets — never commit
+*.env
+.env*
+openclaw.json
+*.pem
+*.key
+id_rsa*
+*secret*
+*token*
+*credential*
+.git-credentials
